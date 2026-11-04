@@ -1,0 +1,18 @@
+# CMake
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+matrix_calculator
+matrix_tests
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp

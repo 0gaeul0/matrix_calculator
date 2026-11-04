@@ -1,0 +1,5 @@
+<map id="matrix_hstack" name="matrix_hstack">
+<area shape="rect" id="Node000001" title="Объединение двух матриц по горизонтали." alt="" coords="5,5,120,33"/>
+<area shape="rect" id="Node000002" href="$matrix_8cpp.html#a00b3eed9347d1300084aa9b4b59faa14" title="Создание матрицы заданного размера." alt="" coords="168,5,280,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,17,155,19,149,19,120,22"/>
+</map>
